@@ -7,6 +7,23 @@ What sets me apart is my strong set of soft skills—adaptability, teamwork, and
 
 I am eager to continue growing as a data scientist and contributing to impactful projects. Let's connect! 🚀
 
+## 💻 **Tech skills**
+- **Programming languages:** Python, SQL  
+- **Data Visualization:** Power BI, Tableau, Matplotlib  
+- **Machine Learning:** Modelos supervisados y no supervisados  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, APIs
+
+## 🌱 **Learning Path**
+Learning:  
+- **Cloud deploying**  
+- **Machine learning (TensorFlow, PyTorch)**  
+
+
+**GitHub stats**
+![EStats](https://github-readme-stats.vercel.app/api?username=skyandrew7&show_icons=true&theme=tokyonight)  
+![Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=skyandrew7&layout=compact&theme=tokyonight)
+
 
 <!--
 **skyandrew7/skyandrew7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
