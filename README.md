@@ -1,4 +1,12 @@
 ## Hi there 👋
+I am Andrew I am a passionate and driven data scientist with 1 year of experience in leveraging data to generate insights and drive decision-making. Fluent in English and Spanish, with intermediate proficiency in French, I thrive in multicultural and collaborative environments.
+
+My technical expertise includes Python, Power BI, Tableau, Matplotlib, SQL, and foundational knowledge of machine learning. I am equally skilled in crafting compelling data visualizations and manging predictive models to solve real-world problems.
+
+What sets me apart is my strong set of soft skills—adaptability, teamwork, and communication—enabling me to bridge the gap between technical teams and business stakeholders effectively.
+
+I am eager to continue growing as a data scientist and contributing to impactful projects. Let's connect! 🚀
+
 
 <!--
 **skyandrew7/skyandrew7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
