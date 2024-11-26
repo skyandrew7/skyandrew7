@@ -19,6 +19,15 @@ Learning:
 - **Cloud deploying**  
 - **Machine learning (TensorFlow, PyTorch)**  
 
+## 📫 Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Email: h98gomez@hotmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/andrew-garc%C3%ADa-g%C3%B3mez-98221831a/)
+- GitHub: [Your GitHub Profile]([https://github.com/skyandrew7)]
+
+I’ll be happy to connect!
 
 **GitHub stats**
 
